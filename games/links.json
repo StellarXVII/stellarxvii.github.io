@@ -14,6 +14,11 @@
                     "background": "black"
                 },
                 "url": "/games/tetris"
+            },
+            {
+                "title": "Hollow Knight",
+                "image": "",
+                "url": "/games/hollowknight"
             }
         ]
     }
